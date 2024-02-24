@@ -1,3 +1,8 @@
+/* changed paragraph text color to blue */
+p {
+  color: blue;
+}
+
 /* (A) MINESWEEPER WRAPPER */
 #mine-wrap {
   display: flex;

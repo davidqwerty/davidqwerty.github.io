@@ -1,0 +1,2 @@
+This is a website project I use to learn web development. It will grow as I learn.
+Feb 24 2024: I know how to add text to a webpage, add pictures to a webpage, and how to turn the paragraph text blue. I also commit and push using github. I have also included a game "minesweeper" from code-boxx.
